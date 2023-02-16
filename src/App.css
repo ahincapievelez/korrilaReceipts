@@ -2,9 +2,21 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.receipt {
+  border: 1px solid salmon;
+  width: 350px;
+  height: auto;
+  display: inline-block;
+  margin: 50px;
+  padding: 20px;
+}
+
+ul{
+  list-style-type: none;
+}
+
+li{
+  margin: 10px 0px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
